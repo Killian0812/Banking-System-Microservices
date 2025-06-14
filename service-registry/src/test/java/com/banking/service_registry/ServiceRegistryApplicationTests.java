@@ -1,10 +1,10 @@
-package com.spring.banking_system_microservice;
+package com.banking.service_registry;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BankingSystemMicroserviceApplicationTests {
+class ServiceRegistryApplicationTests {
 
 	@Test
 	void contextLoads() {
